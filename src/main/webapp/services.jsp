@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Services jsp file</title>
+<title> contact details</title>
 </head>
 <body>
 <h1>This is services jsp file</h1>
