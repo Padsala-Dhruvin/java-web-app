@@ -23,10 +23,10 @@
       <td>Mexico</td>
     </tr>
   </table>
-<h1>This is new line  added</h1>
-<h1>this is again new line</h1>
+<h3>This is new line  added</h3>
+<h3>this is again new line</h3>
 
-<a href="services.jsp">Services page</a>
+<a href="services.jsp">Services page</a><br>
 <a href="test.jsp">Test page</a>
 </body>
 </html>
