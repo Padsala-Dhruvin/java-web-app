@@ -23,8 +23,16 @@
       <td>Mexico</td>
     </tr>
   </table>
-<h3>This is new line  added</h3>
-<h3>this is again new line</h3>
+
+  <dl>
+    <dt>Coffee</dt>
+    <dd>- black hot drink</dd>
+    <dt>Milk</dt>
+    <dd>- white cold drink</dd>
+  </dl>
+  
+<h3>This is Task of CI CD pipline of java application</h3>
+<h3>We use jenkinse and tomcate server</h3>
 
 <a href="services.jsp">Services page</a><br>
 <a href="test.jsp">Test page</a>
